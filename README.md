@@ -1,1 +1,1 @@
-Please use the latest version (PCE8.15)
+Please use the latest version (PEC 8.15)
